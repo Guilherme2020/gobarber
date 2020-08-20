@@ -15,7 +15,7 @@ class User {
     name: string;
 
     @Column()
-    enail: string;
+    email: string;
 
     @Column()
     password: string;
